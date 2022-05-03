@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "name": "Ana Maria",
+      "email": "ana123@gmail.com",
+      "phone": "85999223654",
+      "birthday": "1999-04-22",
+      "cep": "60311750",
+      "address": "Rua 1, 436",
+      "id": 2
+    },
+    {
+      "name": "Anderson Silva",
+      "email": "andersonsilva356@hotmail.com",
+      "phone": "8587264518",
+      "birthday": "2002-06-03",
+      "cep": "60160150",
+      "address": "Rua 2, 1250",
+      "id": 3
+    }
+  ],
+  "doctors": [
+    {
+      "name": " Samuel Carvalho Guimarães",
+      "especiality": "Clínico Geral",
+      "crm": "9900",
+      "turn": "Tarde",
+      "email": "samuel9900@gmail.com",
+      "phone": "8532814458",
+      "birthday": "1978-04-25",
+      "cep": "60160160",
+      "address": "Avenida 3, 981",
+      "id": 1
+    },
+    {
+      "name": "Antônia Maria De Araújo Moreira",
+      "especiality": "Psiquiatra ",
+      "crm": "2664",
+      "turn": "Tarde",
+      "email": "antoniamaria2664@gmail.com",
+      "phone": "8596552829",
+      "birthday": "1985-04-16",
+      "cep": "60115253",
+      "address": "Rua 78, 496",
+      "id": 2
+    }
+  ],
+  "specialty": [
+    {
+      "name": "Cirurgião Estético",
+      "id": 1
+    },
+    {
+      "name": "Pediatra",
+      "id": 2
+    },
+    {
+      "name": "Ortopedista",
+      "id": 3
+    },
+    {
+      "name": "Psiquiatra",
+      "id": 4
+    },
+    {
+      "name": "Urologista",
+      "id": 5
+    }
+  ],
+  "attendance": [
+    {
+      "name": "Cirúrgia Estética",
+      "price": "2800.0",
+      "value": "1",
+      "id": 1
+    },
+    {
+      "name": "Exame de Sangue",
+      "price": "60.0",
+      "id": 2
+    },
+    {
+      "name": "Consulta Ortopedista",
+      "price": "179.9",
+      "id": 3
+    },
+    {
+      "name": "Consulta Pediatra",
+      "price": "164.99",
+      "id": 4
+    }
+  ]
+}
